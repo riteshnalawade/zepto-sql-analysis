@@ -1,23 +1,10 @@
-# 🛒 Zepto SQL Data Analysis Project
+# 🛒 Zepto SQL Data Analysis
 
 ## 📌 Overview
 
-This project demonstrates end-to-end SQL-based data analysis on a quick-commerce dataset (Zepto-style). It includes database schema design, data insertion, and 30 beginner-to-intermediate SQL queries to extract meaningful business insights.
+This project demonstrates end-to-end SQL-based data analysis on a quick-commerce dataset (Zepto-style). It includes database schema design, data insertion, and 30 SQL queries to extract meaningful business insights.
 
 The focus is on building strong SQL fundamentals such as filtering, joins, aggregations, and basic window functions.
-
----
-
-## 📂 Project Structure
-
-```
-zepto-sql-analysis/
-│
-├── schema.sql      -- Database schema (tables, constraints)
-├── data.sql        -- Insert statements (sample dataset)
-├── analysis.sql    -- 30 SQL queries for analysis
-└── README.md
-```
 
 ---
 
@@ -102,18 +89,6 @@ SET search_path TO zepto;
 * Performing aggregations for business insights
 * Using basic window functions for advanced analysis
 * Organizing SQL projects for real-world use
-
----
-
-## 🎯 Project Objective
-
-To build a strong foundation in SQL and demonstrate the ability to analyze structured data for business decision-making, suitable for entry-level Data Analyst roles.
-
----
-
-## 📌 Note
-
-This project focuses on beginner to intermediate SQL concepts and avoids overly complex analytics to maintain clarity and strong fundamentals.
 
 ---
 
